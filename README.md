@@ -36,3 +36,15 @@ Optimizer: Adam | Loss: Binary Crossentropy
 📸 Screenshots
 
 "Fraudulent Transaction Classifier\Output Screenshots"
+
+## 📂 Dataset
+
+This project uses the **Credit Card Fraud Detection** dataset from Kaggle:
+
+**Dataset link:** [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+**Instructions to download:**
+1. Go to the Kaggle link above and download `creditcard.csv`.
+2. Place `creditcard.csv` in the root folder of this project (same folder as `app.py`).
+
+After that, the project can be run as described in the usage section.
